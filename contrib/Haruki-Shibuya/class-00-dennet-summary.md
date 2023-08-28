@@ -1,4 +1,4 @@
-Here is my summary 0f "The Problem With Counterfeit People" by Daniel C. Dennett.
+Here is my summary of "The Problem With Counterfeit People" by Daniel C. Dennett.
 
 Dennett claims that AI can create 'counterfeit people' which behave like humans but can be made with malicious intentions. Fake personalities created by AI can make real people think they are real, allowing malicious people to use fake personalities to manipulate information. This change, he argues, could shake informed consent, the very foundation of democracy, and are troubling when false identities are used by those with the most economic or political power. This is highly dangerous in that, unlike nuclear weapons, it can reproduce, and there is no easy way to shut it down. How should we regulate AI, possibly by introducing regulations that would delay its development or ban it altogether? Harari says we must "make it mandatory for AI to disclose that it is an AI." Making the clandestine manufacture of fake personalities anti-z internalization may also be effective in curbing anti-social behavior.
 
